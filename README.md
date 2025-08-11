@@ -4,7 +4,8 @@
 ## 🎮 *****Contributors*****
 | 성규현 <br> [@dmp100](https://github.com/dmp100) | koyy418 <br> [@koyy418](https://github.com/koyy418) |
 |:---:|:---:|
-| <img width="150" src="https://github.com/user-attachments/assets/daa04602-4d2d-456e-a11b-0c97509ea0c1"/> | <img width="150" src="https://github.com/user-attachments/assets/placeholder-profile-image"/> |
+| <img width="150" src="https://github.com/user-attachments/assets/daa04602-4d2d-456e-a11b-0c97509ea0c1"/> | <img width="150" src="https://github.com/user-attachments/assets/2a1be6cb-1b76-4663-bc7a-18986d9a2166" />
+"/> |
 <br/>
 
 ## ✨ *****Key Features*****
@@ -32,11 +33,13 @@
 - **성공/실패 피드백 시스템**
 <br/>
 
+
 ## 🟨 *****SCREENSHOT*****
-| 메인화면 | AI 채팅 | Live2D 상호작용 | 게임플레이 | NPC 대화 | 친밀도 시스템 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img width="200" src="https://github.com/user-attachments/assets/placeholder-main"/> | <img width="200" src="https://github.com/user-attachments/assets/placeholder-chat"/> | <img width="200" src="https://github.com/user-attachments/assets/placeholder-live2d"/> | <img width="200" src="https://github.com/user-attachments/assets/placeholder-gameplay"/> | <img width="200" src="https://github.com/user-attachments/assets/placeholder-npc"/> | <img width="200" src="https://github.com/user-attachments/assets/placeholder-affinity"/> |
-<br/>
+| AI 채팅 | 게임플레이 | 친밀도 시스템 |
+|:---:|:---:|:---:|
+| <img width="200" src="https://github.com/user-attachments/assets/9ce422c7-d597-46c3-876c-8584333b6d6c"/> | <img width="200" src="https://github.com/user-attachments/assets/e1c01edb-9391-4dcf-9190-18c5ccd7ce37d"/> | <img width="200" src="https://github.com/user-attachments/assets/0f19811d-6040-4cb0-8db2-fdd226dc08b7"/> |
+
+
 
 ## 📗 *****Convention*****
 [📱 Unity 개발 문서](https://docs.google.com/document/d/1hYzwONkhU0kB6pfipcdS6Ax6zguBCO7nJdch3NEX038/edit?tab=t.0)
